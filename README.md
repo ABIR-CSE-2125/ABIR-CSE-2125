@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ABIR-CSE-2125
-- 👀 I’m interested in AI, ML, Software dev, Web dev, Deep learning
-- 🌱 I’m currently learning Computer Science and Engineering at Jadavpur University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :  mail :-) abirbera2003@gmail.com
+- 👀 Into AI, ML, Web dev, Deep learning
+- 🌱 Bachelor of Computer Science and Engineering at Jadavpur University
+- 📫 Reach me: abirbera2003@gmail.com
 - Activity - Senior Level Distributor at VESTIGE Pvt. Ltd.
 
 <!---
